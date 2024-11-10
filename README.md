@@ -27,4 +27,6 @@ python app.py
 ### retrieve.py
 Реализация RAG
 ### config.py
-Реализация работы с yandexGPT и задание system промпта
+Реализация работы с yandexGPT и задание system промпта.
+Требудется указать свой токен для работы с yandexGPT.
+Настроить yandexGPT API можно по [ссылке](https://yandex.cloud/ru/docs/foundation-models/quickstart/yandexgpt?utm_referrer=https%3A%2F%2Fwww.google.com%2F)
